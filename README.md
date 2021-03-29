@@ -1,4 +1,4 @@
-###### Bonjour, Je m'appelle Marika! ✨
+# Bonjour, Je m'appelle Marika! ✨
 
 💻 Développeuse Web 💻
 
