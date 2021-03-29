@@ -1,6 +1,6 @@
 ###### Bonjour, Je m'appelle Marika! ✨
 
-💻 Je suis une jeune développeuse web 💻
+💻 Développeuse web 💻
 
 📍 Île-de-France, France 🇫🇷
 
