@@ -8,4 +8,4 @@
 - Front-End : HTML/CSS, JavaScript, AJAX, Bootstrap
 - Back-End : PHP, MySQL
 
-🤓 En cours d'apprentissage : Nodejs
+🤓 En cours d'apprentissage : NodeJS
