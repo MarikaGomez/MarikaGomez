@@ -7,5 +7,3 @@
 📚 Titre Professionnel Développeur Web et Web Mobile : 
 - Front-End : HTML/CSS, JavaScript, AJAX, Bootstrap
 - Back-End : PHP, MySQL
-
-🤓 En cours d'apprentissage : NodeJS
