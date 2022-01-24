@@ -1,10 +1,10 @@
 # Bonjour, Je m'appelle Marika! ✨
-
-💻 Développeuse Web 💻
+👩🏾‍💻 Développeuse Web & Mobile
 
 📍 Île-de-France, France 🇫🇷
 
-📚 Titre Professionnel Développeur Web et Web Mobile : 
-- Front-End : HTML/CSS, JavaScript, Bootstrap
-- Back-End : PHP, MySQL
-- CMS : WordPress
+🚀 DÉVELOPPEUSE CHARGÉE DE PROJETS EN SOLUTIONS POUR MOBILES ET OBJETS CONNECTÉS: 
+
+- WEB: HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, MYSQL, SYMFONY, NODEJS, MONGODB, 
+- CMS : WORDPRESS
+- MOBILE: ANDROID, JAVA, REACT NATIVE, IOS, FLUTTER, DART
