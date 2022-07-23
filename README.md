@@ -1,10 +1,11 @@
 # Bonjour, Je m'appelle Marika! ✨
-👩🏾‍💻 Développeuse Web & Mobile
+👩🏾‍💻 Développeuse Full Stack
 
 📍 Île-de-France, France 🇫🇷
 
-🚀 DÉVELOPPEUSE CHARGÉE DE PROJETS EN SOLUTIONS POUR MOBILES ET OBJETS CONNECTÉS: 
+🚀 Manager en ingeniérie informatique : 
 
-- WEB: HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, MYSQL, SYMFONY, NODEJS, MONGODB, 
+- WEB: HTML, CSS, JAVASCRIPT, REACT, PHP, SYMFONY, NODEJS, SQL/MYSQL, MONGODB
 - CMS : WORDPRESS
-- MOBILE: ANDROID, JAVA, REACT NATIVE, IOS, FLUTTER, DART
+- MOBILE: ANDROID/JAVA/KOTLIN, REACT NATIVE, IOS/SWIFT, FLUTTER/DART
+- IoT : ZigBee
